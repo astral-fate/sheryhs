@@ -1,0 +1,37 @@
+.bg-lavender-50 {
+  background-color: #f5f3ff;
+}
+
+.bg-lavender-100 {
+  background-color: #ede9fe;
+}
+
+.bg-lavender-500 {
+  background-color: #8b5cf6;
+}
+
+.border-lavender-100 {
+  border-color: #ddd6fe;
+}
+
+.text-lavender-600 {
+  color: #7c3aed;
+}
+
+.text-lavender-700 {
+  color: #6d28d9;
+}
+
+.text-lavender-800 {
+  color: #5b21b6;
+}
+
+.hover\:bg-lavender-50:hover {
+  background-color: #f5f3ff;
+}
+
+.hover\:bg-lavender-600:hover {
+  background-color: #7c3aed;
+}
+
+/* Update the tailwind config if this were a real project */
